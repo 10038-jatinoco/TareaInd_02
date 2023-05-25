@@ -1,0 +1,11 @@
+
+.one{
+  pointer-events: none;
+  color: gray;
+  cursor: default;
+}
+
+li.one a{
+	background-color: white;
+
+}
